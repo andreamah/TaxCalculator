@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Shopping!</string>
+    <string name="totalTextView">0</string>
+    <string name="textView">what is</string>
+    <string name="percentageText">enter percentage</string>
+    <string name="numberTxt">enter number</string>
+    <string name="textView2">%</string>
+    <string name="textView3">of</string>
+    <string name="calcBtn">CALCULATE</string>
+    <string name="_0">0</string>
+    <string name="what_is">what is</string>
+    <string name="enter_percentage">enter percentage</string>
+    <string name="enter_number">enter number</string>
+    <string name="per">%</string>
+    <string name="of">off</string>
+    <string name="calculate">calculate</string>
+    <string name="enter_percent">enter percent</string>
+    <string name="with_tax">with tax?</string>
+</resources>
