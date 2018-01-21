@@ -1,5 +1,6 @@
 package ca.blogspot.electrail.practice;
 
+import android.app.Activity;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -10,7 +11,7 @@ import java.text.DecimalFormat;
 
 import java.text.DecimalFormat;
 
-public class MyFirstAndroidActivity extends AppCompatActivity {
+public class MyFirstAndroidActivity extends Activity {
     TextView totalTextView;
     EditText percentageTxt;
     EditText numberTxt;

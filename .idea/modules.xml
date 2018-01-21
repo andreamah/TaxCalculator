@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Practice.iml" filepath="$PROJECT_DIR$/Practice.iml" />
+      <module fileurl="file://C:\Users\andre\OneDrive\Git Pulls\TaxCalculator\Practice.iml" filepath="C:\Users\andre\OneDrive\Git Pulls\TaxCalculator\Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TaxCalculator.iml" filepath="$PROJECT_DIR$/TaxCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\andre\OneDrive\Git Pulls\TaxCalculator\app\app.iml" filepath="C:\Users\andre\OneDrive\Git Pulls\TaxCalculator\app\app.iml" />
     </modules>
   </component>
 </project>
